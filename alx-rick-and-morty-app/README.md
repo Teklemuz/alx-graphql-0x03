@@ -1,4 +1,4 @@
-# ALX GraphQL 0x02
+# ALX GraphQL 0x03
 # Overview
 GraphQL is a powerful query language for APIs that enables clients to request exactly the data they need, making it an efficient alternative to traditional RESTful APIs. By using GraphQL, you can streamline the process of data fetching and significantly improve performance by eliminating issues like over-fetching and under-fetching of data. This repository introduces you to GraphQL and provides practical examples of how to implement GraphQL queries to retrieve specific data from an API.
 
